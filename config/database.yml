@@ -19,7 +19,7 @@ development:
   encoding: unicode
   database: demo_app_vin_development
   pool: 5
-  username: demo_app_vin
+  username: vinaybangalorelakshmeesh
   password:
 
   # Connect on a TCP socket. Omitted by default since the client uses a
@@ -48,7 +48,7 @@ test:
   encoding: unicode
   database: demo_app_vin_test
   pool: 5
-  username: demo_app_vin
+  username: vinaybangalorelakshmeesh
   password:
 
 production:
@@ -56,5 +56,5 @@ production:
   encoding: unicode
   database: demo_app_vin_production
   pool: 5
-  username: demo_app_vin
+  username: vinaybangalorelakshmeesh
   password:
